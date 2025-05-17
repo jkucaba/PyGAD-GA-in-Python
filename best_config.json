@@ -1,0 +1,12 @@
+{
+  "name": "Binary repr. + Tournament + Single-Point + Random",
+  "function_value": 5.509819915863731e-07,
+  "generations": 50,
+  "crossover_type": "single_point",
+  "mutation_type": "random",
+  "parent_selection_type": "tournament",
+  "solution": [
+    4.999184607681855,
+    4.99884128460053
+  ]
+}
