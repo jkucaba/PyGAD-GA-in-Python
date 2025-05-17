@@ -16,15 +16,15 @@ This project implements a genetic algorithm (GA) to optimize mathematical functi
 ## Project Structure
 
 .
-├── crossover.py # Crossover methods implementation
-├── fitness_function.py # Fitness functions and binary decoding 
-├── genetic_algorithm.py # Genetic algorithm setup and execution 
-├── mutation.py # Mutation methods implementation 
-├── config_loader.py # Configuration loader and best configuration selector 
-├── visualizer.py # Visualization of results 
-├── configs.json # JSON file with predefined configurations 
-├── main.py # Main entry point for running experiments 
-└── README.md # Project documentation
+├── crossover.py          # Implementacja metod krzyżowania
+├── fitness_function.py   # Funkcje przystosowania i dekodowanie binarne
+├── genetic_algorithm.py  # Konfiguracja i wykonanie algorytmu genetycznego
+├── mutation.py           # Implementacja metod mutacji
+├── config_loader.py      # Ładowanie konfiguracji i wybór najlepszej
+├── visualizer.py         # Wizualizacja wyników
+├── configs.json          # Plik JSON z predefiniowanymi konfiguracjami
+├── main.py               # Główny punkt wejścia do uruchamiania eksperymentów
+└── README.md             # Dokumentacja projektu
 
 ## Requirements
 - Python 3.8+
